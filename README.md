@@ -12,8 +12,8 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 
 ### Links
 
-- Solution URL: [solution URL](https://your-solution-url.com)
-- Live Site URL: [live site URL](https://your-live-site-url.com)
+- Solution URL: [solution URL](https://github.com/IndranjanaChatterjee/Testimonials-grid-section)
+- Live Site URL: [live site URL](https://testimonials-sol.netlify.app/)
 
 ## My process
 
@@ -30,7 +30,7 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 ## Author
 
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [IndranjanaChatterjee](https://www.frontendmentor.io/profile/IndranjanaChatterjee)
 
 
 
